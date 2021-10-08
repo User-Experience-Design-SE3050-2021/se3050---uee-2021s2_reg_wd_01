@@ -1,0 +1,72 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+android:background="@color/white"
+tools:context=".Admin_home">
+
+<LinearLayout
+    android:layout_width="414dp"
+    android:layout_height="283dp"
+    android:background="@drawable/backfile"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" />
+
+<TextView
+    android:id="@+id/textViewBooking"
+    android:layout_width="match_parent"
+    android:layout_height="65dp"
+    android:background="@drawable/textview_border"
+    android:padding="10dp"
+    android:text="Ticket Charge"
+    android:textStyle="bold"
+    android:textColor="@color/black"
+    android:textSize="34sp" />
+<TextView
+    android:id="@+id/textViewFeedback"
+    android:layout_width="match_parent"
+    android:layout_height="65dp"
+    android:background="@drawable/textview_border"
+    android:padding="10dp"
+    android:textStyle="bold"
+    android:textColor="@color/black"
+    android:text="Notice"
+    android:textSize="34sp" />
+<TextView
+    android:id="@+id/textViewPayment"
+    android:layout_width="match_parent"
+    android:layout_height="65dp"
+    android:background="@drawable/textview_border"
+    android:padding="10dp"
+    android:textStyle="bold"
+    android:textColor="@color/black"
+    android:text="Feedback"
+    android:textSize="34sp" />
+
+<TextView
+    android:id="@+id/textViewNotice"
+    android:layout_width="match_parent"
+    android:layout_height="65dp"
+    android:background="@drawable/textview_border"
+    android:padding="10dp"
+    android:textStyle="bold"
+    android:textColor="@color/black"
+    android:text="Admin Details"
+    android:textSize="34sp" />
+<TextView
+    android:id="@+id/textViewSignOut"
+    android:layout_width="match_parent"
+    android:layout_height="65dp"
+    android:background="@drawable/textview_border"
+    android:padding="10dp"
+    android:textStyle="bold"
+    android:textColor="@color/red"
+    android:text="Sign Out"
+    android:textSize="34sp" />
+
+
+</LinearLayout>
+
+

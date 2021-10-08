@@ -3,6 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/SLIIT/UEE/ueeProject/se3050---uee-2021s2_reg_wd_01/MyApplication/app/src/main/res/drawable/ractangleback.xml" value="0.21614583333333334" />
+        <entry key="..\:/SLIIT/UEE/ueeProject/se3050---uee-2021s2_reg_wd_01/MyApplication/app/src/main/res/drawable/textview_border.xml" value="0.21614583333333334" />
+        <entry key="..\:/SLIIT/UEE/ueeProject/se3050---uee-2021s2_reg_wd_01/MyApplication/app/src/main/res/layout/activity_admin_home.xml" value="0.2" />
+        <entry key="..\:/SLIIT/UEE/ueeProject/se3050---uee-2021s2_reg_wd_01/MyApplication/app/src/main/res/layout/activity_home_passengers.xml" value="0.1859375" />
+        <entry key="..\:/SLIIT/UEE/ueeProject/se3050---uee-2021s2_reg_wd_01/MyApplication/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/SLIIT/UEE/ueeProject/se3050---uee-2021s2_reg_wd_01/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/SLIIT/UEE/ueeProject/se3050---uee-2021s2_reg_wd_01/MyApplication/app/src/main/res/layout/activity_pay2.xml" value="0.2" />
+        <entry key="..\:/SLIIT/UEE/ueeProject/se3050---uee-2021s2_reg_wd_01/MyApplication/app/src/main/res/layout/activity_register_for_login.xml" value="0.2" />
         <entry key="..\:/Users/Zaman/AndroidStudioProjects/MyApplication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.165234375" />
         <entry key="..\:/Users/Zaman/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_launcher_background.xml" value="0.165234375" />
         <entry key="..\:/Users/Zaman/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_booking.xml" value="0.153125" />
