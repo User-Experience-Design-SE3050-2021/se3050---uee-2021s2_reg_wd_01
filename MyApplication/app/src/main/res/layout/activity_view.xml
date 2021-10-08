@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#0D5891"
+    tools:context=".view">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="160dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:background="#CFC6C6"
+        android:orientation="vertical"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:gravity="center_horizontal"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <View
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/train"
+
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"/>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+
+                android:text="Train : colombo - Kandy"
+                android:textColor="@color/black"
+                android:textSize="20dp"
+                android:layout_marginLeft="8dp"
+                android:textStyle="bold"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <View
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/time"
+
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"/>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Time : 8:30 P.M"
+                android:textColor="@color/black"
+                android:textSize="20dp"
+                android:layout_marginLeft="8dp"
+                android:textStyle="bold"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <View
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/location"
+
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"/>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Station : colombo"
+                android:textColor="@color/black"
+                android:textSize="20dp"
+                android:layout_marginLeft="8dp"
+                android:textStyle="bold"
+                />
+
+            <Button
+                android:id="@+id/btnView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="10dp"
+                android:text="View" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="160dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:background="#CFC6C6"
+        android:orientation="vertical"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:gravity="center_horizontal"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <View
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/train"
+
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"/>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+
+                android:text="Train : colombo - Kandy"
+                android:textColor="@color/black"
+                android:textSize="20dp"
+                android:layout_marginLeft="8dp"
+                android:textStyle="bold"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <View
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/time"
+
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"/>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Time : 8:30 P.M"
+                android:textColor="@color/black"
+                android:textSize="20dp"
+                android:layout_marginLeft="8dp"
+                android:textStyle="bold"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <View
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/location"
+
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"/>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Station : colombo"
+                android:textColor="@color/black"
+                android:textSize="20dp"
+                android:layout_marginLeft="8dp"
+                android:textStyle="bold"
+                />
+            <Button
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="10dp"
+                android:text="View"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="160dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:background="#CFC6C6"
+        android:orientation="vertical"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:gravity="center_horizontal"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <View
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/train"
+
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"/>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+
+                android:text="Train : colombo - Kandy"
+                android:textColor="@color/black"
+                android:textSize="20dp"
+                android:layout_marginLeft="8dp"
+                android:textStyle="bold"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <View
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/time"
+
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"/>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Time : 8:30 P.M"
+                android:textColor="@color/black"
+                android:textSize="20dp"
+                android:layout_marginLeft="8dp"
+                android:textStyle="bold"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <View
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/location"
+
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"/>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Station : colombo"
+                android:textColor="@color/black"
+                android:textSize="20dp"
+                android:layout_marginLeft="8dp"
+                android:textStyle="bold"
+                />
+
+            <Button
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="10dp"
+                android:text="View"
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:background="#C58FD8"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <Button
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/homedark"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>

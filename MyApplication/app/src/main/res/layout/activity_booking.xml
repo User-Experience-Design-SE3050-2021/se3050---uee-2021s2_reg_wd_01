@@ -1,0 +1,203 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context=".pay2">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:background="@drawable/header"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:layout_marginBottom="20dp">
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="Train Sri Lanka"
+            android:textColor="@color/white"
+            android:textSize="40dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="Booking"
+            android:textColor="@color/white"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="160dp"
+        android:background="#CFC6C6"
+        android:orientation="vertical"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:gravity="center_horizontal"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <View
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/train"
+
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+
+            android:text="Train : colombo - Kandy"
+            android:textColor="@color/black"
+            android:textSize="20dp"
+            android:layout_marginLeft="8dp"
+            android:textStyle="bold"
+            />
+        </LinearLayout>
+
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <View
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="@drawable/time"
+
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="15dp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="Time : 8:30 P.M"
+            android:textColor="@color/black"
+            android:textSize="20dp"
+            android:layout_marginLeft="8dp"
+            android:textStyle="bold"
+            />
+    </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <View
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:background="@drawable/location"
+
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="15dp"/>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Station : colombo"
+                android:textColor="@color/black"
+                android:textSize="20dp"
+                android:layout_marginLeft="8dp"
+                android:textStyle="bold"
+                />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:layout_marginLeft="110dp"
+        android:layout_marginRight="110dp"
+        >
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginTop="10dp"
+
+            android:text="Price 750/="
+            android:textColor="@color/black"
+            android:textSize="30dp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/pluse" />
+
+        <TextView
+            android:layout_width="25dp"
+            android:layout_height="63dp"
+            android:layout_marginLeft="30dp"
+
+
+            android:text="1"
+            android:textColor="@color/black"
+            android:textSize="30dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="30dp"
+            android:background="@drawable/pluse" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal"
+        >
+
+
+        <Button
+            android:id="@+id/bookbtn"
+            android:layout_width="254dp"
+            android:layout_height="match_parent"
+            android:text="BOOK"
+            android:textSize="30dp" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:background="#C58FD8"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:layout_marginTop="20dp">
+
+        <Button
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/homedark"/>
+
+    </LinearLayout>
+</LinearLayout>
