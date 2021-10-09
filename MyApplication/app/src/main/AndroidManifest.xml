@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication">
         <activity
+            android:name=".ticketcharges_list"
+            android:exported="true" />
+        <activity
+            android:name=".Notice"
+            android:exported="true" />
+        <activity
+            android:name=".HomePassengers"
+            android:exported="true" />
+        <activity
             android:name=".Admin_home"
             android:exported="true" />
         <activity
@@ -37,7 +46,7 @@
             android:name=".pay2"
             android:exported="true" />
         <activity
-            android:name=".HomePassengers"
+            android:name=".ticketcharge"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
