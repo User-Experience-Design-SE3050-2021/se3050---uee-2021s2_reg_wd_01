@@ -51,34 +51,33 @@
             />
 
     </LinearLayout>
+
     <LinearLayout
+        android:id="@+id/Fromlay"
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:orientation="horizontal">
 
 
-
-
         <EditText
             android:layout_width="300dp"
             android:layout_height="match_parent"
-            android:text="Colombo"
-            android:textSize="20dp"
+            android:layout_marginLeft="30dp"
+            android:background="#DCD6D6"
 
 
             android:shadowColor="#B8B1B1"
+            android:text="Colombo"
             android:textColor="@color/black"
-            android:layout_marginLeft="30dp"
-            android:background="#DCD6D6"
-            />
+            android:textSize="20dp" />
 
         <View
             android:layout_width="40dp"
             android:layout_height="40dp"
-            android:background="@drawable/delete"
-
             android:layout_marginLeft="5dp"
-            android:layout_marginTop="5dp"/>
+
+            android:layout_marginTop="5dp"
+            android:background="@drawable/delete" />
 
 
     </LinearLayout>
