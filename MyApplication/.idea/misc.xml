@@ -28,8 +28,20 @@
         <entry key="..\:/Users/dasit/Desktop/final uee/se3050---uee-2021s2_reg_wd_01/MyApplication/app/src/main/res/drawable/custom_start_icon.xml" value="0.1" />
         <entry key="..\:/Users/dasit/Desktop/final uee/se3050---uee-2021s2_reg_wd_01/MyApplication/app/src/main/res/drawable/date_24.xml" value="0.1" />
         <entry key="..\:/Users/dasit/Desktop/final uee/se3050---uee-2021s2_reg_wd_01/MyApplication/app/src/main/res/drawable/start.xml" value="0.1" />
+        <entry key="..\:/Users/dasit/Desktop/final uee/se3050---uee-2021s2_reg_wd_01/MyApplication/app/src/main/res/layout/activity_admin_home.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/dasit/Desktop/final uee/se3050---uee-2021s2_reg_wd_01/MyApplication/app/src/main/res/layout/activity_booking.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/dasit/Desktop/final uee/se3050---uee-2021s2_reg_wd_01/MyApplication/app/src/main/res/layout/activity_home_passengers.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/dasit/Desktop/final uee/se3050---uee-2021s2_reg_wd_01/MyApplication/app/src/main/res/layout/activity_login.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/dasit/Desktop/final uee/se3050---uee-2021s2_reg_wd_01/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.20885416666666667" />
         <entry key="..\:/Users/dasit/Desktop/final uee/se3050---uee-2021s2_reg_wd_01/MyApplication/app/src/main/res/layout/activity_notice.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/dasit/Desktop/final uee/se3050---uee-2021s2_reg_wd_01/MyApplication/app/src/main/res/layout/activity_notices_list.xml" value="0.264" />
+        <entry key="..\:/Users/dasit/Desktop/final uee/se3050---uee-2021s2_reg_wd_01/MyApplication/app/src/main/res/layout/activity_pay2.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/dasit/Desktop/final uee/se3050---uee-2021s2_reg_wd_01/MyApplication/app/src/main/res/layout/activity_payment.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/dasit/Desktop/final uee/se3050---uee-2021s2_reg_wd_01/MyApplication/app/src/main/res/layout/activity_register_for_login.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/dasit/Desktop/final uee/se3050---uee-2021s2_reg_wd_01/MyApplication/app/src/main/res/layout/activity_search.xml" value="0.20885416666666667" />
         <entry key="..\:/Users/dasit/Desktop/final uee/se3050---uee-2021s2_reg_wd_01/MyApplication/app/src/main/res/layout/activity_ticketcharge.xml" value="0.18342391304347827" />
+        <entry key="..\:/Users/dasit/Desktop/final uee/se3050---uee-2021s2_reg_wd_01/MyApplication/app/src/main/res/layout/activity_ticketcharges_list.xml" value="0.2517482517482518" />
+        <entry key="..\:/Users/dasit/Desktop/final uee/se3050---uee-2021s2_reg_wd_01/MyApplication/app/src/main/res/layout/activity_view.xml" value="0.20885416666666667" />
       </map>
     </option>
   </component>

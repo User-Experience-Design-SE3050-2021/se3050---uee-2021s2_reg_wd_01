@@ -9,9 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication">
-        <activity
-            android:name=".ticketcharges_list"
-            android:exported="true" />
+
         <activity
             android:name=".Notice"
             android:exported="true" />
@@ -39,14 +37,21 @@
         <activity
             android:name=".Booking"
             android:exported="true" />
-        <activity
-            android:name=".MainActivity"
-            android:exported="true" />
+
         <activity
             android:name=".pay2"
             android:exported="true" />
         <activity
             android:name=".ticketcharge"
+            android:exported="true" />
+        <activity
+            android:name=".ticketcharges_list"
+            android:exported="true" />
+        <activity
+            android:name=".notices_list"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
